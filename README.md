@@ -2,9 +2,13 @@
 
 Personal list of awesomeness
 
+## Dev UX
+
+- https://github.com/jonathanong/osx-webdev-setup
+- https://github.com/nvbn/thefuck
+
 ## Koa
 
-- https://github.com/koajs/koa
 - https://github.com/PabloSichert/concurrency-logger
 - https://github.com/koajs/path-match
 - https://github.com/koajs/redis-session-sets
@@ -16,9 +20,15 @@ Personal list of awesomeness
 - https://github.com/JedWatson/classnames
 - https://github.com/jonathanong/react-asset-loader
 
-## Testing
+## Testing & Monitoring
+
+- https://github.com/dollarshaveclub/monitor
+- https://github.com/dollarshaveclub/e2e
 
 ## CI/CD
+
+- https://github.com/sindresorhus/wait-for-localhost
+- https://github.com/jonathanong/gh-automerge
 
 ## Security
 
